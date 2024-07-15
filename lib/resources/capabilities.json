@@ -63,7 +63,8 @@
         "75": "Unknown",
         "82": "Unknown",
         "254": "Unknown",
-        "255": "Unknown"
+        "253": "UTF-8",
+        "255": "utf8"
       },
       "vendor": "Generic",
       "model": "Default",
